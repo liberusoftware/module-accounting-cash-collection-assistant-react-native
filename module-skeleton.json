@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-cash-collection-assistant-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-cash-collection-assistant",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-cash-collection-assistant-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/cash-collection-assistant.md",
+  "presentationPlan": "projects/accounting/react-native/cash-collection-assistant.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
